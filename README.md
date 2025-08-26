@@ -38,5 +38,3 @@ The project also includes **file handling** to persist data about books and user
 ## 📂 File Handling
 - **books.txt** → Stores all books with details (ID, title, author, status).  
 - **users.txt** → Stores all registered users (ID, name, email, type).  
-
-Example:
